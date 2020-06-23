@@ -14,7 +14,7 @@ setup(
     long_description_content_type="text/markdown",
     url="https://github.com/nvakhilnair/Plain-Text-Encrypter-and-Decrypter-using-RSA-Algorithm/",
     author="Akhil",
-    author_email="nvakhilnair@gmail.com",
+    author_email="MadeWithPY009@gmail.com",
     license="MIT",
     classifiers=[
         "License :: OSI Approved :: MIT License",
