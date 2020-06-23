@@ -12,7 +12,7 @@ setup(
     description="GUI application is used for plain text decryption and encryption using RSA algorithm",
     long_description=readme(),
     long_description_content_type="text/markdown",
-    url="https://github.com/nvakhilnair/",
+    url="https://github.com/nvakhilnair/Plain-Text-Encrypter-and-Decrypter-using-RSA-Algorithm/",
     author="Akhil",
     author_email="nvakhilnair@gmail.com",
     license="MIT",
