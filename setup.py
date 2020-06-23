@@ -7,9 +7,9 @@ def readme():
 
 
 setup(
-    name="PyPI_upload_package",
-    version="1.0.1",
-    description="This Gui application is used upload your package to PyPI and PyPI Test",
+    name="covid123",
+    version="1.0.0",
+    description="GUI application is used for plain text decryption and encryption using RSA algorithm",
     long_description=readme(),
     long_description_content_type="text/markdown",
     url="https://github.com/nvakhilnair/",
@@ -21,12 +21,8 @@ setup(
         "Programming Language :: Python :: 3",
         "Programming Language :: Python :: 3.7",
     ],
-    packages=["pythonfiles"],
+    packages=['pythonfiles'],
     include_package_data=True,
-    install_requires=["PyQt4"],
-    entry_points={
-        "console_scripts": [
-            "PyPI_upload_package=pythonfiles.PyPI_upload_package:main",
-        ]
-    },
+    install_requires=["PyQt4>=4.11.4"],
+    entry_points={},
 )
