@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: encryption_decryption_RSA
+Version: 1.0.0
+Summary: GUI application is used for plain text decryption and encryption using RSA algorithm
+Home-page: https://github.com/nvakhilnair/Plain-Text-Encrypter-and-Decrypter-using-RSA-Algorithm
+Author: Akhil
+Author-email: MadeWithPY009@gmail.com
+License: MIT
+Description: 
+        GUI application is used for plain text decryption and encryption using RSA algorithm
+        
+        
+        cmd command : encryption_decryption_RSA.py (after pip installation the package)
+        		*always use file extension .py in command terminal to run
+        
+        Requirement: PyQt4==4.11.4
+        
+        *You can also manually install these libraries using <pip install PyQt4>
+        or use Requirements.txt file using <pip install -r Requirements.txt>
+        
+        Feedbacks and suggestions for improvement are always welcomed
+        email id: MadeWithPY009@gmail.com 
+        
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Description-Content-Type: text/markdown
