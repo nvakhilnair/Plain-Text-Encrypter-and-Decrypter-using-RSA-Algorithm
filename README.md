@@ -8,7 +8,7 @@ cmd command : encryption_decryption_RSA.py (after pip installation the package)
 Requirement: PyQt4==4.11.4
 
 *You can also manually install these libraries using <pip install PyQt4>
-or use Requirements.txt file using <pip install -r Requirements.txt>
+or use Requirements.txt file using <pip install -r requirements.txt>
 
 Feedbacks and suggestions for improvement are always welcomed
 email id: MadeWithPY009@gmail.com 
